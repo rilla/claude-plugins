@@ -1,5 +1,5 @@
 ---
-name: Rails Best Practices
+name: rails-best-practices
 description: Use when generating Rails code, creating models/controllers, discussing Rails conventions, refactoring Rails apps, or working with ActiveRecord, Hotwire, RSpec, or Ruby on Rails development. Combines Evil Martians' conventions with 37signals' One Person Framework philosophy.
 version: 1.0.0
 ---
