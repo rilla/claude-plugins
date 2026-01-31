@@ -1,0 +1,36 @@
+{
+  "name": "rilla-claude-plugins",
+  "owner": {
+    "name": "Rilla"
+  },
+  "metadata": {
+    "description": "⚠️ EXPERIMENTAL: Personal collection of Claude Code plugins for Rails development and more",
+    "version": "0.1.0-experimental",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "rails-best-practices",
+      "source": "./plugins/rails-best-practices",
+      "description": "⚠️ EXPERIMENTAL: Comprehensive Rails development standards combining Evil Martians' conventions with 37signals' One Person Framework philosophy. Emphasizes rich models, thin controllers, and vanilla Rails approaches.",
+      "version": "0.1.0-experimental",
+      "author": {
+        "name": "Consolidated from Evil Martians & 37signals patterns"
+      },
+      "homepage": "https://github.com/rilla/claude-plugins",
+      "license": "MIT",
+      "category": "frameworks",
+      "keywords": [
+        "rails",
+        "ruby",
+        "best-practices",
+        "conventions",
+        "evil-martians",
+        "37signals",
+        "one-person-framework",
+        "experimental"
+      ],
+      "tags": ["experimental", "ruby", "web-development", "rails"]
+    }
+  ]
+}

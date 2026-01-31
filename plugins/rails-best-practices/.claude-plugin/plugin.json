@@ -1,0 +1,24 @@
+{
+  "name": "rails-best-practices",
+  "version": "0.1.0-experimental",
+  "description": "⚠️ EXPERIMENTAL: Comprehensive Rails development standards combining Evil Martians conventions with 37signals' One Person Framework philosophy. Emphasizes rich models, thin controllers, and vanilla Rails approaches. Use at your own risk.",
+  "author": {
+    "name": "Consolidated from Evil Martians & 37signals patterns",
+    "contributors": [
+      "Evil Martians (rails-codegen)",
+      "Mario Alberto Chávez (rails-simplifier)",
+      "37signals team (One Person Framework)"
+    ]
+  },
+  "license": "MIT",
+  "keywords": [
+    "rails",
+    "ruby",
+    "best-practices",
+    "conventions",
+    "37signals",
+    "evil-martians",
+    "one-person-framework",
+    "vanilla-rails"
+  ]
+}
