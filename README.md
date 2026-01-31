@@ -30,6 +30,24 @@ A personal collection of Claude Code plugins for Rails development and beyond.
 
 ---
 
+### domain-modelling (v1.0.0)
+
+Domain-Driven Design skill for modeling the problem space before writing code.
+
+**Features:**
+- Domain-first workflow: Understand → Model → Validate → Code
+- Pragmatic inquiry (infers obvious, asks about complexity)
+- DDD building blocks (Entities, Value Objects, Aggregates)
+- Ubiquitous language establishment
+- Model validation before coding
+- Prevents common modeling mistakes
+
+**Philosophy:** "The model is the understanding. Code is the expression. Get the understanding right first."
+
+[→ See full documentation](./plugins/domain-modelling/README.md)
+
+---
+
 ## 📦 Installation
 
 ### Option 1: Clone Entire Marketplace
@@ -83,6 +101,6 @@ All credit goes to the original authors.
 
 ---
 
-**Current Plugins:** 1
+**Current Plugins:** 2
 **Last Updated:** 2025-01-31
 **Status:** Experimental

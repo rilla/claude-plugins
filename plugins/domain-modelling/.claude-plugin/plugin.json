@@ -1,0 +1,20 @@
+{
+  "name": "domain-modelling",
+  "version": "1.0.0",
+  "description": "Domain-Driven Design skill for modeling problem space before writing code. Prevents jumping to implementation, establishes ubiquitous language, identifies entities/value objects/aggregates, and validates domain model with stakeholders.",
+  "author": {
+    "name": "Rilla"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ddd",
+    "domain-driven-design",
+    "domain-modeling",
+    "architecture",
+    "design",
+    "ubiquitous-language",
+    "aggregates",
+    "entities",
+    "value-objects"
+  ]
+}

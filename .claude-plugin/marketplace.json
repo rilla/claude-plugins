@@ -31,6 +31,27 @@
         "experimental"
       ],
       "tags": ["experimental", "ruby", "web-development", "rails"]
+    },
+    {
+      "name": "domain-modelling",
+      "source": "./plugins/domain-modelling",
+      "description": "Domain-Driven Design skill for modeling problem space before writing code. Prevents jumping to implementation, establishes ubiquitous language, identifies entities/value objects/aggregates, and validates domain model with stakeholders.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Rilla"
+      },
+      "homepage": "https://github.com/rilla/claude-plugins",
+      "license": "MIT",
+      "category": "architecture",
+      "keywords": [
+        "ddd",
+        "domain-driven-design",
+        "domain-modeling",
+        "architecture",
+        "design",
+        "ubiquitous-language"
+      ],
+      "tags": ["featured", "architecture", "best-practices", "ddd"]
     }
   ]
 }
